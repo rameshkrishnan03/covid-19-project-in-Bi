@@ -4,8 +4,9 @@
 
 ## Problem Statement
 
-In this Project we Created an informative Power BI dashboard to track Covid-19 statistics globally . I utilized data visualization to display infection rates, new cases, serious & critical cases and Deaths. and how many countries were affected and Showing the  which country has high death rate and high active cases.
+The Global COVID-19 Tracking Project utilizing Power BI for data analysis aims to integrate diverse datasets related to COVID-19, including infection rates, mortality rates, testing data, and vaccination progress, to develop visually appealing dashboards for comprehensive tracking and analysis. Through real-time updates and interactive features, users can dynamically explore trends, disparities, and correlations between countries, regions, and time periods, facilitating informed decision-making and policy development. Predictive modeling will enable forecasting of COVID-19 trends, while ensuring user accessibility and adhering to strict data privacy and security protocols. The project seeks to contribute to global efforts in combating the pandemic by providing accessible, informative visualizations and leveraging data-driven insights to monitor, analyze, and respond to the ongoing COVID-19 crisis effectively.
 
+ 
  
 
 
